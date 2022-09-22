@@ -1,0 +1,16 @@
+body,
+h1 {
+  font-family: "Raleway", sans-serif;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+.bgimg {
+  background-image: url("https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg?auto=webp&quality=95&crop=16:9&width=675");
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
